@@ -1,0 +1,183 @@
+{
+  "users": [
+    {
+      "name": "Patrick Wilson",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "id": "1"
+    },
+    {
+      "name": "Patrick Wilson",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "id": "2"
+    },
+    {
+      "name": "Patrick Wilson",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "id": "3"
+    },
+    {
+      "name": "Patrick Wilson",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "id": "4"
+    },
+    {
+      "name": "Patrick Wilson",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "id": "5"
+    },
+    {
+      "id": "7e18",
+      "name": "Patrick Wilson",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#"
+    },
+    {
+      "id": "1719",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "0180",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "cb39",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "8392",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "e0ee",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "5a40",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "9b8d",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "6ef4",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "1de8",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "fb1c",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Pat"
+    },
+    {
+      "id": "93e6",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick"
+    },
+    {
+      "id": "9cfe",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "patrick"
+    },
+    {
+      "id": "fb7a",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick"
+    },
+    {
+      "id": "3a9f",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick"
+    },
+    {
+      "id": "5f6b",
+      "email": "patrickafriyiewilson12345@gmail.com",
+      "password": "Patrick12345#",
+      "name": "Patrick Wilson"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "Eat Me",
+      "contact": 11111111,
+      "address": "Takoradi Ws-500-2979"
+    },
+    {
+      "id": "2",
+      "name": "Pizza World",
+      "contact": 33333333,
+      "address": "Takoradi Ws-500-3080"
+    },
+    {
+      "id": "3",
+      "name": "KFC",
+      "contact": 22222222,
+      "address": "Takoradi Ws-500-3181"
+    },
+    {
+      "id": "7b71"
+    },
+    {
+      "id": "d39d",
+      "name": "NOBLE HOUSE",
+      "address": "WS-500-4232",
+      "contact": "0257732425"
+    },
+    {
+      "id": "3868",
+      "name": "Eat Me Restaurant",
+      "address": "WS-500-2979",
+      "contact": "0257732425"
+    },
+    {
+      "id": "66eb",
+      "name": "Eat Me Restaurant",
+      "address": "WS-500-2979",
+      "contact": "0257732425"
+    },
+    {
+      "id": "bd1f",
+      "name": "God is Good Resto",
+      "address": "WS-500-2979",
+      "contact": "0257732425"
+    },
+    {
+      "id": "44be",
+      "name": "Grillas",
+      "address": "WS-500-2979",
+      "contact": "0257732425"
+    }
+  ]
+}
