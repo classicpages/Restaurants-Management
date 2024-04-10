@@ -129,55 +129,22 @@
   ],
   "restaurant": [
     {
-      "id": "1",
-      "name": "Eat Me",
-      "contact": 11111111,
-      "address": "Takoradi Ws-500-2979"
-    },
-    {
-      "id": "2",
-      "name": "Pizza World",
-      "contact": 33333333,
-      "address": "Takoradi Ws-500-3080"
-    },
-    {
-      "id": "3",
-      "name": "KFC",
-      "contact": 22222222,
-      "address": "Takoradi Ws-500-3181"
-    },
-    {
-      "id": "7b71"
-    },
-    {
-      "id": "d39d",
-      "name": "NOBLE HOUSE",
-      "address": "WS-500-4232",
-      "contact": "0257732425"
-    },
-    {
-      "id": "3868",
+      "id": "23af",
       "name": "Eat Me Restaurant",
-      "address": "WS-500-2979",
+      "address": "WS-500-3989",
       "contact": "0257732425"
     },
     {
-      "id": "66eb",
-      "name": "Eat Me Restaurant",
-      "address": "WS-500-2979",
-      "contact": "0257732425"
-    },
-    {
-      "id": "bd1f",
+      "id": "612b",
       "name": "God is Good Resto",
       "address": "WS-500-2979",
-      "contact": "0257732425"
+      "contact": "99999999"
     },
     {
-      "id": "44be",
+      "id": "1470",
       "name": "Grillas",
-      "address": "WS-500-2979",
-      "contact": "0257732425"
+      "address": "WS-500-3989",
+      "contact": "88888888"
     }
   ]
 }
